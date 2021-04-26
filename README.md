@@ -1,7 +1,5 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bewhale&show_icons=true&theme=tokyonight)
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bewhale&show_icons=true&theme=tokyonight)<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 > ***南风知我意，吹梦到西洲。***
 
