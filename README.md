@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - :octocat: My Github: 
-[![myslef's GitHub stats](https://github-readme-stats.vercel.app/api?username=bewhale)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bewhale&show_icons=true&theme=radical)
+
