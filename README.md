@@ -1,7 +1,6 @@
 * 🐳 Welcome to my world 
 * 🐳 Hello! 
 * 🐳 Portfolio: https://brdhanani.github.io
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=bewhale&show_icons=true&theme=tokyonight&hide_border=true" width="50%" height="auto">
 
 <br/>
